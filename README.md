@@ -86,7 +86,7 @@ print("Accuracy:", knn.score(X_test, y_test))
 
 ---
 
-🏁 Results
+## 🏁 Results
 
 * 🎯 Accuracy: 97.33%
 
@@ -100,7 +100,7 @@ These metrics show strong reliability for real-world prediction systems.
 
 ---
 
-👨‍💻 Team Members
+## 👨‍💻 Team Members
 
 * E. Likhith
 
@@ -113,3 +113,8 @@ These metrics show strong reliability for real-world prediction systems.
 * N. Harshith
 
 * B. Sri Ram
+
+---
+
+## 📄 License
+This project is for academic and research purposes. Feel free to explore and build upon it.
