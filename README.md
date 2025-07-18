@@ -1,4 +1,4 @@
-# 🩺 Heart Disease Predictive Model
+# 🩺🌐 Heart Disease Predictive Model
 ### Using Recursive Feature Elimination (RFE) and Machine Learning Algorithms
 
 A research-driven machine learning system to predict heart disease based on clinical attributes. Developed by a 6-member team as part of a 3-month academic research project, this system leverages advanced ML techniques and feature engineering for accurate predictions. 🧠
