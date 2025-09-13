@@ -69,7 +69,7 @@ The dataset contains **1025 samples** and **14 features**, including:
 
 ---
 
-## 🧪 Sample Code Snippet
+## 🧪 Sample Code Snippet 
 
 ```python
 from sklearn.neighbors import KNeighborsClassifier
